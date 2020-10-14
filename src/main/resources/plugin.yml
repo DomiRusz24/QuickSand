@@ -1,0 +1,4 @@
+name: QuickSandMain
+version: ${project.version}
+main: me.domirusz24.pk.quicksand.quicksand.QuickSand
+authors: [DomiRusz24]
